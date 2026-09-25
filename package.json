@@ -1,16 +1,5 @@
 {
   "name": "safora-tourist-safety",
   "version": "2.0.0",
-  "description": "SAFORA - Smart Tourist Safety, AI Assistance & Emergency Dispatch Ecosystem",
-  "scripts": {
-    "build": "echo 'Static build ready'"
-  },
-  "keywords": [
-    "safety",
-    "tourist",
-    "emergency",
-    "ai-assistance"
-  ],
-  "author": "SAFORA Team",
-  "license": "MIT"
+  "description": "SAFORA - Smart Tourist Safety, AI Assistance & Emergency Dispatch Ecosystem"
 }
